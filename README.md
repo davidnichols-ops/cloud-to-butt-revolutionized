@@ -3,7 +3,17 @@ cloud-to-butt — Revolutionized
 
 ![](logo.png)
 
-> **A revolutionary upgrade of the classic cloud-to-butt extension, modernized by [@davidnichols-ops](https://github.com/davidnichols-ops).**
+> ### A note from David
+>
+> I've been laughing at the original cloud-to-butt extension for over a decade. It's one of those perfect little pieces of internet culture — simple, absurd, and genuinely useful in the way only a good joke can be. But when I went to install it recently, I found out Chrome had quietly killed it: Manifest V2 is deprecated, and the `.crx` drag-and-drop install no longer works. The extension was effectively dead on modern Chrome.
+>
+> That felt wrong. So I brought it back.
+>
+> This fork migrates it to Manifest V3, broadens the replacement so *every* mention of "cloud" gets buttified (not just the phrase "the cloud"), and ships it as a custom unpacked extension you can load in seconds. I also submitted it to the Chrome Web Store so anyone can install it with one click once it's approved. And I opened a PR back to the original repo, because credit where credit's due — panicsteve made the thing, I just gave it a new engine.
+>
+> The internet deserves more stupid, joyful things. This is mine.
+>
+> — [David Nichols](https://github.com/davidnichols-ops)
 
 Chrome extension that replaces every occurrence of 'cloud' with 'butt' — and, of course, 'the cloud' with 'my butt'.
 
@@ -60,5 +70,18 @@ Opera Version: https://github.com/DaveRandom/cloud-to-butt-opera
 
 Screenshot Gallery
 ------------------
+
+### Chrome Web Store listing screenshots
+
+![Store listing screenshot 1](screenshots/store_listing_01.png)
+![Store listing screenshot 2](screenshots/store_listing_02.png)
+![Store listing screenshot 3](screenshots/store_listing_03.png)
+![Store listing screenshot 4](screenshots/store_listing_04.png)
+
+### Demo screenshot
+
+![Before and after replacement](screenshot_1280x800.png)
+
+### Original community gallery
 
 http://www.flickr.com/groups/cloud-to-butt/
