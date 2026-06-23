@@ -79,9 +79,6 @@ Screenshot Gallery
 ![Store listing screenshot 3](screenshots/store_listing_03.png)
 ![Store listing screenshot 4](screenshots/store_listing_04.png)
 
-### Demo screenshot
-
-![Before and after replacement](screenshot_1280x800.png)
 
 ### Original community gallery
 
