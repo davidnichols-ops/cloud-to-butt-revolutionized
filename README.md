@@ -1,11 +1,24 @@
-cloud-to-butt
-=============
+cloud-to-butt — Revolutionized
+==============================
 
 ![](logo.png)
+
+> **A revolutionary upgrade of the classic cloud-to-butt extension, modernized by [@davidnichols-ops](https://github.com/davidnichols-ops).**
 
 Chrome extension that replaces every occurrence of 'cloud' with 'butt' — and, of course, 'the cloud' with 'my butt'.
 
 This is the modernized build: it uses **Manifest V3** and is installed as a **custom unpacked extension** rather than the old `.crx` drag-and-drop method (which current versions of Chrome block for security reasons).
+
+What makes this revolutionary
+-----------------------------
+
+The original [panicsteve/cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) was a work of art — but it was built on the now-deprecated Manifest V2 and shipped as a `.crx` file that modern Chrome refuses to install. This fork brings it roaring into the present:
+
+- **Manifest V3** — future-proof and accepted by current Chrome.
+- **Custom unpacked install** — add it as your own extension in seconds, no `.crx` gymnastics.
+- **Every mention of the cloud is now my butt** — broadened coverage so nothing slips through.
+
+An upstream pull request has been opened so the original author can merge these improvements: [panicsteve/cloud-to-butt#78](https://github.com/panicsteve/cloud-to-butt/pull/78).
 
 Behavior
 --------
