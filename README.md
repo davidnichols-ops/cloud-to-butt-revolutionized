@@ -9,7 +9,8 @@ cloud-to-butt — Revolutionized
 >
 > That felt wrong. So I brought it back.
 >
-> This fork migrates it to Manifest V3, broadens the replacement so *every* mention of "cloud" gets buttified (not just the phrase "the cloud"), and ships it as a custom unpacked extension you can load in seconds. I also submitted it to the Chrome Web Store so anyone can install it with one click once it's approved. And I opened a PR back to the original repo, because credit where credit's due — panicsteve made the thing, I just gave it a new engine.
+> This fork migrates it to Manifest V3, broadens the replacement so *every* mention of "cloud" gets buttified (not just the phrase "the cloud"), and ships it as a custom unpacked extension you can load in seconds. I also submitted it to the Chrome Web Store so anyone can install it (once its approved)
+>ALL CREDIT TO @panicsteve
 >
 > The internet deserves more stupid, joyful things. This is mine.
 >
