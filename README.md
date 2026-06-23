@@ -20,6 +20,13 @@ The original [panicsteve/cloud-to-butt](https://github.com/panicsteve/cloud-to-b
 
 An upstream pull request has been opened so the original author can merge these improvements: [panicsteve/cloud-to-butt#78](https://github.com/panicsteve/cloud-to-butt/pull/78).
 
+Chrome Web Store
+----------------
+
+This extension has been **submitted to the Chrome Web Store** and is pending review. See [`STORE_SUBMISSION.md`](STORE_SUBMISSION.md) for the full listing details (single purpose, permission justification, privacy practices, and rebuild instructions).
+
+Until the store listing is approved, install it via the unpacked method below.
+
 Behavior
 --------
 
