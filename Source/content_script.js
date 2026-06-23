@@ -39,11 +39,18 @@ function handleText(textNode)
 {
 	var v = textNode.nodeValue;
 
+	// First map the iconic phrase: "the cloud" -> "my butt".
 	v = v.replace(/\bThe Cloud\b/g, "My Butt");
 	v = v.replace(/\bThe cloud\b/g, "My butt");
 	v = v.replace(/\bthe Cloud\b/g, "my Butt");
 	v = v.replace(/\bthe cloud\b/g, "my butt");
-	
+
+	// Then replace every remaining mention of "cloud" with "butt",
+	// preserving the original capitalization.
+	v = v.replace(/Cloud/g, "Butt");
+	v = v.replace(/CLOUD/g, "BUTT");
+	v = v.replace(/cloud/g, "butt");
+
 	textNode.nodeValue = v;
 }
 
